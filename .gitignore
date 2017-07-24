@@ -1,0 +1,6 @@
+/vendor/bundle/*
+.bundle/
+Gemfile.lock
+database/*
+grib2_files/*
+grib2_txt_files/*
